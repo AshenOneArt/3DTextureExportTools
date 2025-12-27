@@ -10,6 +10,22 @@ A lightweight, robust Unity Editor tool for generating, previewing, and exportin
 
 ---
 
+## Download & Run (No Unity Required) / 下载与运行（无需安装 Unity）
+
+If you simply want to use the tool without opening the Unity Editor, you can download the standalone executable.\
+如果您只想直接使用工具而不想打开 Unity 编辑器，可以直接下载独立运行版。
+
+1.  **Go to Releases:** Click the **[Releases](../../releases)** section on the right side of this page.
+    * **前往发布页：** 点击页面右侧的 **[Releases](../../releases)** 链接。
+2.  **Download:** Find the latest version (e.g., `v1.0`) and download the `.rar` or `.zip` file (e.g., `VolumeCloudTools.rar`).
+    * **下载：** 找到最新版本（如 `v1.0`），下载对应的压缩包（如 `VolumeCloudTools.rar`）。
+    * *Ignore the "Source code" zip files if you don't need the code.*
+    * *注意：如果您不需要源码，请忽略 "Source code" 文件。*
+3.  **Run:** Unzip the file and run the `.exe` application inside.
+    * **运行：** 解压文件，直接运行其中的 `.exe` 程序即可。
+
+---
+
 ## Compatibility / 版本兼容性
 
 * **Verified Environment (已验证环境):**
@@ -67,7 +83,7 @@ A lightweight, robust Unity Editor tool for generating, previewing, and exportin
 
 ---
 
-## 🎛️ Parameters Explained / 参数详解
+## Parameters Explained / 参数详解
 
 ### 1. Noise Generation (噪声生成)
 * **Resolution (分辨率):**
