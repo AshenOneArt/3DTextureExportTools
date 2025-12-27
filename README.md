@@ -84,7 +84,7 @@ After dragging the folder into your project:
 
 * **Automated Dependency Management:**
   * **全自动依赖管理：**
-    * Automatically downloads Microsoft **DirectXTex** tools (`texconv`, `texassemble`) to handle professional-grade texture compression. (自动下载微软 **DirectXTex** 工具链，无需手动配置即可实现工业级纹理压缩。)
+    * Automatically downloads Microsoft **DirectXTex** tools (`texconv`, `texassemble`)(自动下载微软 **DirectXTex** 工具链)
 
 ---
 
