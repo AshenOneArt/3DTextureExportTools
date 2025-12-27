@@ -20,7 +20,7 @@ A lightweight, robust Unity Editor tool for generating, previewing, and exportin
     * 本工具目前**仅**在上述特定版本中进行过测试。
     * 对于其他 Unity 版本（如 Unity 6, 2021 LTS）或其他图形 API（Vulkan, Metal, OpenGL）的兼容性**未知**，暂不提供保证。
 
-![Tool Preview](Documentation/preview.png)
+![Tool Preview](Document/preview.png)
 
 ---
 
