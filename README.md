@@ -67,6 +67,32 @@ After dragging the folder into your project:
 3.  **Ready:** The tool UI will appear in the **Game View**. You can now start generating noise.
     * **就绪：** 工具 UI 将显示在 **Game View（游戏视图）** 中，您现在可以开始生成噪声了。
 
+## Controls & Camera / 操作与视角
+
+When the scene is running, the tool uses a "Roaming Camera" similar to Scene View.
+场景运行时，工具使用类似 Scene View 的漫游相机。
+
+### Mouse Mode Switching (Important!) / 鼠标模式切换（重要！）
+
+* **Camera Look Mode (Default):**
+    * The cursor is **hidden**. Moving the mouse rotates the camera view.
+    * **默认模式（视角漫游）：** 光标**隐藏**。移动鼠标可以旋转视角。
+
+* **UI Cursor Mode (Press TAB):**
+    * **Press `TAB` key** to toggle mode.
+    * The cursor becomes **visible**, and camera rotation **stops**.
+    * Use this mode to click buttons or drag sliders on the UI.
+    * **UI 交互模式（按 TAB 键）：**
+    * **按 `TAB` 键** 切换模式。
+    * 光标**显示**，视角旋转**锁定**。
+    * 在此模式下，您可以点击按钮或拖拽调整 UI 参数。
+
+### ⌨️ Movement Keys / 移动按键
+
+* **`W / S / A / D`**: Move Forward / Backward / Left / Right (前后左右移动)
+* **`Q / E`**: Move Down / Up (垂直升降)
+* **`Shift` (Hold)**: Boost movement speed (按住加速移动)
+
 ## Features / 功能特性
 
 * **Real-time Preview:** Visualize 3D noise directly in the Unity Editor before exporting.
